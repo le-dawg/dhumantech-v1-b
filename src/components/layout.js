@@ -38,7 +38,7 @@ class Layout extends Component {
             className="header-title"
             to={`/`}
           >
-            {title}
+          <object type="image/svg+xml" data={LogoImg} class="logo"></object>
           </Link>
           <div className="nav-container">
             <ul className="header-nav">

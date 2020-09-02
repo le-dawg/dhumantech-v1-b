@@ -34,6 +34,10 @@
     color: inherit;
 }
 
+.logo {
+    pointer-events: none;
+}
+
 .header-container div::selection,
 .header-container a::selection {
     background: transparent;
