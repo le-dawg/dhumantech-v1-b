@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import { Link } from "gatsby"
 import { ThemeToggler } from "gatsby-plugin-dark-mode"
+import LogoImg from '../../static/logo-biturnal.svg';
 
 class Layout extends Component {
   render() {
@@ -40,6 +41,7 @@ class Layout extends Component {
           >
             {title}
           </Link>
+          <object type="image/svg+xml" data={LogoImg} class="logo"></object>
           <div className="nav-container">
             <ul className="header-nav">
               <li id="header-nav-first"><Link to={`/tags`}>Tags</Link></li>
