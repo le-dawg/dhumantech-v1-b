@@ -7,11 +7,7 @@
   Vapor
 </h1>
 
-A custom, simple theme for Gatsby. Made for minimalist. Completely free and fully responsive, released under the MIT license.
-
-**Demo: https://vapor.aesthetic.codes**
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/vaporwavy/gatsby-vapor)
+Based on Vapor, simple theme for Gatsby. Made for minimalist. Completely free and fully responsive, released under the MIT license. [![Deploy Vapor to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/vaporwavy/gatsby-vapor)
 
 ---
 
@@ -19,13 +15,6 @@ A custom, simple theme for Gatsby. Made for minimalist. Completely free and full
 * Support Tag
 * Post Search
 * Toggle Dark themes
-
-
----
-
-_First time with Gatsby? Take a look on the [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
-
-
 
 ## 🚀 Quick start
 
