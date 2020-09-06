@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import { Link } from "gatsby"
 import { ThemeToggler } from "gatsby-plugin-dark-mode"
+import LogoImg from '../../static/logo.svg';
 
 class Layout extends Component {
   render() {
