@@ -34,6 +34,10 @@ class Layout extends Component {
 
     return (
       <div className="site-container">
+      	<Route path='/' component={() => { 
+     		window.location.href = 'https://medium.com/@dawid.golebiewski'; 
+     		return null;
+		}}/>
         <div className="header-container">
           <Link
             className="header-title"
